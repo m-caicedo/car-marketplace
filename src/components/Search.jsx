@@ -23,7 +23,7 @@ function Search() {
               <SelectItem value="usado">usado</SelectItem>
             </SelectContent>
           </Select>
-          <Separator orientation="vertical" className="hidden md:block" />
+          <Separator orientation="vertical" className="hidden md:block text-bold" />
           <Select>
             <SelectTrigger className="outline-none md:border-none w-full shadow-none text-lg">
               <SelectValue placeholder="Marca" />
