@@ -1,0 +1,129 @@
+{
+    "features": [
+      {
+        "label": "Aire Acondicionado",
+        "name": "aireAcondicionado",
+        "fieldType": "checkbox"
+      },
+      {
+        "label": "Odómetro Digital",
+        "name": "odometroDigital",
+        "fieldType": "checkbox"
+      },
+      {
+        "label": "Calefacción",
+        "name": "calefaccion",
+        "fieldType": "checkbox"
+      },
+      {
+        "label": "Asientos de Cuero",
+        "name": "asientosCuero",
+        "fieldType": "checkbox"
+      },
+      {
+        "label": "Techo Solar Panorámico",
+        "name": "techoSolarPanoramico",
+        "fieldType": "checkbox"
+      },
+      {
+        "label": "Tacómetro",
+        "name": "tacometro",
+        "fieldType": "checkbox"
+      },
+      {
+        "label": "Pantalla Táctil",
+        "name": "pantallaTactil",
+        "fieldType": "checkbox"
+      },
+      {
+        "label": "Frenos ABS",
+        "name": "frenosABS",
+        "fieldType": "checkbox"
+      },
+      {
+        "label": "Asistente de Frenado",
+        "name": "asistenteFrenado",
+        "fieldType": "checkbox"
+      },
+      {
+        "label": "Seguros de Seguridad para Niños",
+        "name": "segurosSeguridadNiños",
+        "fieldType": "checkbox"
+      },
+      {
+        "label": "Bolsa de Aire del Conductor",
+        "name": "bolsaAireConductor",
+        "fieldType": "checkbox"
+      },
+      {
+        "label": "Seguros Eléctricos",
+        "name": "segurosElectricos",
+        "fieldType": "checkbox"
+      },
+      {
+        "label": "Control de Estabilidad",
+        "name": "controlEstabilidad",
+        "fieldType": "checkbox"
+      },
+      {
+        "label": "Control de Tracción",
+        "name": "controlTraccion",
+        "fieldType": "checkbox"
+      },
+      {
+        "label": "Luces Antiniebla Delanteras",
+        "name": "lucesAntineblaDelanteras",
+        "fieldType": "checkbox"
+      },
+      {
+        "label": "Limpiaparabrisas con Sensor de Lluvia",
+        "name": "limpiaparabrisasSensorLluvia",
+        "fieldType": "checkbox"
+      },
+      {
+        "label": "Alerón Trasero",
+        "name": "aleronTrasero",
+        "fieldType": "checkbox"
+      },
+      {
+        "label": "Ventanas Eléctricas",
+        "name": "ventanasElectricas",
+        "fieldType": "checkbox"
+      },
+      {
+        "label": "Comodidad y Conveniencia",
+        "name": "comodidadConveniencia",
+        "fieldType": "checkbox"
+      },
+      {
+        "label": "Android Auto",
+        "name": "androidAuto",
+        "fieldType": "checkbox"
+      },
+      {
+        "label": "Apple CarPlay",
+        "name": "appleCarPlay",
+        "fieldType": "checkbox"
+      },
+      {
+        "label": "Bluetooth",
+        "name": "bluetooth",
+        "fieldType": "checkbox"
+      },
+      {
+        "label": "HomeLink",
+        "name": "homeLink",
+        "fieldType": "checkbox"
+      },
+      {
+        "label": "Dirección Asistida",
+        "name": "direccionAsistida",
+        "fieldType": "checkbox"
+      },
+      {
+        "label": "Espejo de Cortesía",
+        "name": "espejoCortesia",
+        "fieldType": "checkbox"
+      }
+    ]
+  }

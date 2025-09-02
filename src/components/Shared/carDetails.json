@@ -1,0 +1,210 @@
+{
+  "carDetails": [
+    {
+      "label": "Título del Anuncio",
+      "name": "tituloAnuncio",
+      "fieldType": "text",
+      "required": true,
+      "column": 2,
+      "icon": "FaClipboardList"
+    },
+    {
+      "label": "Eslogan",
+      "name": "eslogan",
+      "fieldType": "text",
+      "column": 2,
+      "icon": "FaTag"
+    },
+    {
+      "label": "Precio Original",
+      "name": "precioOriginal",
+      "fieldType": "text",
+      "column": 1,
+      "icon": "FaDollarSign"
+    },
+    {
+      "label": "Precio de Venta",
+      "name": "precioVenta",
+      "fieldType": "text",
+      "required": true,
+      "column": 1,
+      "icon": "FaMoneyBillAlt"
+    },
+    {
+      "label": "Categoría",
+      "name": "categoria",
+      "fieldType": "dropdown",
+      "options": ["Sedán", "SUV", "Camioneta", "Cupé", "Convertible", "Van", "Hatchback","Eléctrico","Híbrido"],
+      "required": true,
+      "column": 1,
+      "icon": "FaCar"
+    },
+    {
+      "label": "Condición",
+      "name": "condicion",
+      "fieldType": "dropdown",
+      "required": true,
+      "options": ["Nuevo", "Usado", "Seminuevo Certificado"],
+      "column": 1,
+      "icon": "FaCheckCircle"
+    },
+    
+    {
+      "label": "Marca",
+      "name": "marca",
+      "fieldType": "dropdown",
+      "required": true,
+      "options": [
+        "Toyota",
+        "Honda",
+        "Ford",
+        "Chevrolet",
+        "Nissan",
+        "BMW",
+        "Mercedes-Benz",
+        "Audi",
+        "Tesla",
+        "Volkswagen",
+        "Hyundai",
+        "Kia",
+        "Lexus",
+        "Subaru",
+        "Mazda",
+        "Jeep",
+        "Dodge",
+        "Ram",
+        "GMC",
+        "Volvo",
+        "Land Rover",
+        "Jaguar",
+        "Porsche",
+        "Fiat",
+        "Alfa Romeo",
+        "Mitsubishi",
+        "Infiniti",
+        "Acura",
+        "Mini",
+        "Buick",
+        "Cadillac",
+        "Chrysler",
+        "Lincoln",
+        "Maserati",
+        "Bentley",
+        "Rolls-Royce",
+        "Aston Martin",
+        "Ferrari",
+        "Lamborghini",
+        "McLaren",
+        "Pagani",
+        "Bugatti"
+      ],
+      "column": 1,
+      "icon": "FaIndustry"
+    },
+    {
+      "label": "Modelo",
+      "name": "modelo",
+      "fieldType": "text",
+      "required": true,
+      "column": 1,
+      "icon": "FaCarSide"
+    },
+    {
+      "label": "Año",
+      "name": "año",
+      "fieldType": "number",
+      "required": true,
+      "column": 1,
+      "icon": "FaCalendarAlt"
+    },
+    {
+      "label": "Tipo de Tracción",
+      "name": "tipoTraccion",
+      "fieldType": "dropdown",
+      "options": ["Delantera", "Trasera", "Integral", "4x4"],
+      "required": true,
+      "column": 1,
+      "icon": "FaRoad"
+    },
+    {
+      "label": "Transmisión",
+      "name": "transmision",
+      "fieldType": "dropdown",
+      "options": ["Automática", "Manual", "CVT"],
+      "required": true,
+      "column": 1,
+      "icon": "FaCogs"
+    },
+    {
+      "label": "Tipo de Combustible",
+      "name": "tipoCombustible",
+      "fieldType": "dropdown",
+      "options": ["Gasolina", "Diésel", "Eléctrico", "Híbrido"],
+      "required": true,
+      "column": 1,
+      "icon": "FaGasPump"
+    },
+    {
+      "label": "Kilometraje",
+      "name": "kilometraje",
+      "fieldType": "number",
+      "required": true,
+      "column": 1,
+      "icon": "FaTachometerAlt"
+    },
+    {
+      "label": "Tamaño del Motor",
+      "name": "tamañoMotor",
+      "fieldType": "text",
+      "column": 1,
+      "icon": "FaWrench"
+    },
+    {
+      "label": "Cilindros",
+      "name": "cilindros",
+      "fieldType": "number",
+      "column": 1,
+      "icon": "FaCircle"
+    },
+    {
+      "label": "Color",
+      "name": "color",
+      "fieldType": "dropdown",
+      "required": true,
+      "options": ["Negro", "Azul", "Dorado", "Rosa", "Rojo", "Plateado", "Blanco"],
+      "column": 2,
+      "icon": "FaPalette"
+    },
+    {
+      "label": "Puertas",
+      "name": "puertas",
+      "fieldType": "number",
+      "required": true,
+      "column": 1,
+      "icon": "FaDoorClosed"
+    },
+    {
+      "label": "VIN",
+      "name": "vin",
+      "fieldType": "text",
+      "column": 1,
+      "icon": "FaIdCard"
+    },
+    {
+      "label": "Tipo de Oferta",
+      "name": "tipoOferta",
+      "fieldType": "dropdown",
+      "options": ["Comprar", "Oferta Especial", "Vender", "Urgente"],
+      "column": 2,
+      "icon": "FaTags"
+    },
+    {
+      "label": "Descripción del Anuncio",
+      "name": "descripcionAnuncio",
+      "fieldType": "textarea",
+      "required": true,
+      "column": 2,
+      "icon": "FaFileAlt"
+    }
+  ]
+}
